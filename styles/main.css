@@ -1,5 +1,7 @@
+@import url(../styles/font.css);
+
 body {
-    background-color: green;
+    background-color: rgb(26, 89, 26);
     margin: 0;
     padding: 0;
     
@@ -41,18 +43,12 @@ li{
 } 
 
  .box img {
-    height: 350px;
+    height: 250px;
     object-fit: cover;
-    width: 40%;
+    width: 35%;
     vertical-align: top;
 
  }
- .textbox {
-    width: 69;
-    height: 100%;
-    overflow: scroll;
-
- }  
  
   .textbox h2, .textbox p {
     font-family: "Caveat";
@@ -60,6 +56,9 @@ li{
 
  }
 
+ .textbox p {
+    font-family: "Montserrat";
+ }
  .right {
     float:right;
  }
@@ -67,4 +66,8 @@ li{
 
  .left {
     float: left;
+ }
+
+ .textbox1 p {
+    font-family: "Rubik Bubbles";
  }

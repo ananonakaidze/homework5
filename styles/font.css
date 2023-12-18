@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url("../transfonter.org-20231218-211414/fonts/Montserrat-Thin.eot");
+    src: url("../transfonter.org-20231218-211414/fonts/Montserrat-Thin.eot") format('embedded-opentype'),
+        url("../transfonter.org-20231218-211414/fonts/Montserrat-Thin.woff") format('woff2'),
+        url("../transfonter.org-20231218-211414/fonts/Montserrat-Thin.woff2") format('woff'),
+        url("../transfonter.org-20231218-211414/fonts/Montserrat-Thin.ttf") format('truetype'),
+        url('../transfonter.org-20231218-211414/fonts/Montserrat-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik Bubbles';
+    src: url('../transfonter.org-20231218-211414/fonts/RubikBubbles-Regular.eot');
+    src: url('../transfonter.org-20231218-211414/fonts/RubikBubbles-Regular.eot') format('embedded-opentype'),
+        url('../transfonter.org-20231218-211414/fonts/RubikBubbles-Regular.woff2') format('woff2'),
+        url('../transfonter.org-20231218-211414/fonts/RubikBubbles-Regular.woff') format('woff'),
+        url('../transfonter.org-20231218-211414/fonts/RubikBubbles-Regular.ttf') format('truetype'),
+        url('../transfonter.org-20231218-211414/fonts/RubikBubbles-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
