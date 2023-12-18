@@ -1,0 +1,25 @@
+.container {
+    background-color: antiquewhite;
+
+}
+
+.box {
+ display: inline-block;
+ width: 49%;
+}
+ .box img {
+    height: 200px;
+    width: 250px;
+    object-fit: cover;
+    width: 30%;
+
+ }
+ .textbox {
+    display: inline-block;
+    width: 69;
+
+ }
+
+ .textbox h2, .textbox p {
+    display: inline-block;
+ }
